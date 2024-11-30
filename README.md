@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to my profile!
+Welcome to my profile! My name is Lukas Hén and I am a student at Chalmers University of Technology.
 
 ## Stats 📊
 
@@ -7,3 +7,6 @@ Welcome to my profile!
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knodeln&layout=compact&theme=dark)
+
+## Contact ✉
+mail: lukas.hen@hotmail.com
